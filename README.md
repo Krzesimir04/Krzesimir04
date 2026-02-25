@@ -11,8 +11,8 @@ Here you can check my projects.
 ![Java script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&labelColor=gray&color=yellow)
-![git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&labelColor=gray&color=gray)
+![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=gray&color=gray)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=gray&labelColor=orange&color=orange)
 
 ### Frameworks
 
