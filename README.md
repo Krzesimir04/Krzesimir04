@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Krzesimir
-I'm young man from Poland who is into programming and web dev.
+I'm young computer science student from Poland who is into programming.
 Here you can check my projects.
 
 ## What do I know and can?
@@ -11,6 +11,7 @@ Here you can check my projects.
 ![Java script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c-white?style=for-the-badge&logo=c&labelColor=blue&color=gray)
 
 ### Frameworks
 
