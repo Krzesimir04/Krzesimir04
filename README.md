@@ -10,7 +10,8 @@ Student & Developer | Passionate about algorithms and engineering.
 ![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=gray&color=gray)
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=gray&labelColor=orange&color=orange)
 ![Java script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=C&logoColor=blue)
+![C](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=c&logoColor=blue)
+
 
 
 ### Frameworks
